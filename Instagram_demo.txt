@@ -13,3 +13,5 @@ Instagram Application.
 6.Reels,IGTV,Live
 
 7.Last Seen can Active or Hide
+
+8.Multiple Accounts can Add.
