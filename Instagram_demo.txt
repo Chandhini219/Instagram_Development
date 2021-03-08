@@ -1,0 +1,14 @@
+Instagram Application.
+
+1. Login
+
+2.Friend Request to others
+
+3.Message
+
+4.Video and Audio Calls
+
+5.Post,Stories
+
+6.Reels,IGTV,Live
+
