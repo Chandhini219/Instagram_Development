@@ -14,6 +14,6 @@ Instagram Application.
 
 7.Last Seen can Active or Hide
 
-8.Multiple Accounts can Add.
+8.Multiple Accounts can Add. 3 users
 
 9.Snap photos
